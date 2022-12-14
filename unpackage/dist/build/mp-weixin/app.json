@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/user"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": " ",
+    "navigationBarBackgroundColor": "#F5F5F5",
+    "backgroundColor": "#111111"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#1688FF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "height": "50px",
+    "fontSize": "10px",
+    "iconWidth": "24px",
+    "spacing": "3px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/index/index.png",
+        "selectedIconPath": "static/images/index/indexActive.png",
+        "text": ""
+      },
+      {
+        "pagePath": "pages/index/user",
+        "iconPath": "static/images/index/user.png",
+        "selectedIconPath": "static/images/index/userActive.png",
+        "text": ""
+      }
+    ]
+  },
+  "usingComponents": {}
+}
