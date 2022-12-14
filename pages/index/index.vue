@@ -67,7 +67,6 @@
         dict: {
           menus: menus,
           swiperList: [
-            
           ]
         },
         status: { isHide: false }
